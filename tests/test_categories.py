@@ -1,4 +1,9 @@
 from utils.api_client import get
+from utils.assertions import validate_status
+
+def test_get_categories():
+    response = get("/products/categories")
+    validate_status(response)
 
 def test_get_categories():
     response = get("/products/categories")

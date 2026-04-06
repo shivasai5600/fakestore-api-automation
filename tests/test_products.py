@@ -1,4 +1,5 @@
 from utils.api_client import get, post
+from utils.assertions import validate_status
 
 def test_get_all_products():
     response = get("/products")
