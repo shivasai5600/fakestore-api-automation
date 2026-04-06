@@ -1,0 +1,60 @@
+2026-04-06 22:09:59,367 - INFO - GET Request: https://fakestoreapi.com/products/categories
+2026-04-06 22:09:59,873 - INFO - Response Status: 200
+2026-04-06 22:09:59,877 - INFO - GET Request: https://fakestoreapi.com/products/category/electronics
+2026-04-06 22:10:00,358 - INFO - Response Status: 200
+2026-04-06 22:10:00,363 - INFO - GET Request: https://fakestoreapi.com/products
+2026-04-06 22:10:01,467 - INFO - Response Status: 200
+2026-04-06 22:10:01,470 - INFO - GET Request: https://fakestoreapi.com/products/1
+2026-04-06 22:10:01,954 - INFO - Response Status: 200
+2026-04-06 22:10:01,958 - INFO - POST Request: https://fakestoreapi.com/products | Payload: {'title': 'Test Product', 'price': 100, 'description': 'Test Desc', 'image': 'https://i.pravatar.cc', 'category': 'electronics'}
+2026-04-06 22:10:02,474 - INFO - Response Status: 201
+2026-04-06 22:10:02,527 - INFO - GET Request: https://fakestoreapi.com/products/999999
+2026-04-06 22:10:03,007 - INFO - Response Status: 200
+2026-04-06 22:10:54,778 - INFO - GET Request: https://fakestoreapi.com/products/categories
+2026-04-06 22:10:55,378 - INFO - Response Status: 200
+2026-04-06 22:10:55,382 - INFO - GET Request: https://fakestoreapi.com/products/category/electronics
+2026-04-06 22:10:55,951 - INFO - Response Status: 200
+2026-04-06 22:10:55,954 - INFO - GET Request: https://fakestoreapi.com/products
+2026-04-06 22:10:56,495 - INFO - Response Status: 200
+2026-04-06 22:10:56,499 - INFO - GET Request: https://fakestoreapi.com/products/1
+2026-04-06 22:10:57,007 - INFO - Response Status: 200
+2026-04-06 22:10:57,011 - INFO - POST Request: https://fakestoreapi.com/products | Payload: {'title': 'Test Product', 'price': 100, 'description': 'Test Desc', 'image': 'https://i.pravatar.cc', 'category': 'electronics'}
+2026-04-06 22:10:57,505 - INFO - Response Status: 201
+2026-04-06 22:10:57,547 - INFO - GET Request: https://fakestoreapi.com/products/999999
+2026-04-06 22:10:58,117 - INFO - Response Status: 200
+2026-04-06 22:13:02,619 - INFO - GET Request: https://fakestoreapi.com/products/categories
+2026-04-06 22:13:03,138 - INFO - Response Status: 200
+2026-04-06 22:13:03,142 - INFO - GET Request: https://fakestoreapi.com/products/category/electronics
+2026-04-06 22:13:04,886 - INFO - Response Status: 200
+2026-04-06 22:13:04,890 - INFO - GET Request: https://fakestoreapi.com/products
+2026-04-06 22:13:05,438 - INFO - Response Status: 200
+2026-04-06 22:13:05,443 - INFO - GET Request: https://fakestoreapi.com/products/1
+2026-04-06 22:13:05,988 - INFO - Response Status: 200
+2026-04-06 22:13:05,993 - INFO - POST Request: https://fakestoreapi.com/products | Payload: {'title': 'Test Product', 'price': 100, 'description': 'Test Desc', 'image': 'https://i.pravatar.cc', 'category': 'electronics'}
+2026-04-06 22:13:06,533 - INFO - Response Status: 201
+2026-04-06 22:13:06,574 - INFO - GET Request: https://fakestoreapi.com/products/999999
+2026-04-06 22:13:07,100 - INFO - Response Status: 200
+2026-04-06 22:17:55,059 - INFO - GET Request: https://fakestoreapi.com/products/categories
+2026-04-06 22:17:55,600 - INFO - Response Status: 200
+2026-04-06 22:17:55,606 - INFO - GET Request: https://fakestoreapi.com/products/category/electronics
+2026-04-06 22:17:56,157 - INFO - Response Status: 200
+2026-04-06 22:17:56,161 - INFO - GET Request: https://fakestoreapi.com/products
+2026-04-06 22:17:56,636 - INFO - Response Status: 200
+2026-04-06 22:17:56,641 - INFO - GET Request: https://fakestoreapi.com/products/1
+2026-04-06 22:17:57,105 - INFO - Response Status: 200
+2026-04-06 22:17:57,109 - INFO - POST Request: https://fakestoreapi.com/products | Payload: {'title': 'Test Product', 'price': 100, 'description': 'Test Desc', 'image': 'https://i.pravatar.cc', 'category': 'electronics'}
+2026-04-06 22:17:57,585 - INFO - Response Status: 201
+2026-04-06 22:17:57,590 - INFO - GET Request: https://fakestoreapi.com/products/999999
+2026-04-06 22:17:58,553 - INFO - Response Status: 200
+2026-04-06 22:20:59,811 - INFO - GET Request: https://fakestoreapi.com/products/categories
+2026-04-06 22:21:00,432 - INFO - Response Status: 200
+2026-04-06 22:21:00,436 - INFO - GET Request: https://fakestoreapi.com/products/category/electronics
+2026-04-06 22:21:00,918 - INFO - Response Status: 200
+2026-04-06 22:21:00,922 - INFO - GET Request: https://fakestoreapi.com/products
+2026-04-06 22:21:01,403 - INFO - Response Status: 200
+2026-04-06 22:21:01,409 - INFO - GET Request: https://fakestoreapi.com/products/1
+2026-04-06 22:21:01,889 - INFO - Response Status: 200
+2026-04-06 22:21:01,893 - INFO - POST Request: https://fakestoreapi.com/products | Payload: {'title': 'Test Product', 'price': 100, 'description': 'Test Desc', 'image': 'https://i.pravatar.cc', 'category': 'electronics'}
+2026-04-06 22:21:02,444 - INFO - Response Status: 201
+2026-04-06 22:21:02,449 - INFO - GET Request: https://fakestoreapi.com/products/999999
+2026-04-06 22:21:02,932 - INFO - Response Status: 200
