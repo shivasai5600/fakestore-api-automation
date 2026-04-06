@@ -58,3 +58,15 @@
 2026-04-06 22:21:02,444 - INFO - Response Status: 201
 2026-04-06 22:21:02,449 - INFO - GET Request: https://fakestoreapi.com/products/999999
 2026-04-06 22:21:02,932 - INFO - Response Status: 200
+2026-04-06 22:39:11,458 - INFO - GET Request: https://fakestoreapi.com/products/categories
+2026-04-06 22:39:11,962 - INFO - Response Status: 200
+2026-04-06 22:39:11,967 - INFO - GET Request: https://fakestoreapi.com/products/category/electronics
+2026-04-06 22:39:12,466 - INFO - Response Status: 200
+2026-04-06 22:39:12,472 - INFO - GET Request: https://fakestoreapi.com/products
+2026-04-06 22:39:12,982 - INFO - Response Status: 200
+2026-04-06 22:39:12,987 - INFO - GET Request: https://fakestoreapi.com/products/1
+2026-04-06 22:39:14,385 - INFO - Response Status: 200
+2026-04-06 22:39:14,390 - INFO - POST Request: https://fakestoreapi.com/products | Payload: {'title': 'Test Product', 'price': 100, 'description': 'Test Desc', 'image': 'https://i.pravatar.cc', 'category': 'electronics'}
+2026-04-06 22:39:14,871 - INFO - Response Status: 201
+2026-04-06 22:39:14,876 - INFO - GET Request: https://fakestoreapi.com/products/999999
+2026-04-06 22:39:15,358 - INFO - Response Status: 200
